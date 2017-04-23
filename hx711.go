@@ -1,7 +1,7 @@
 package hx711
 
 import (
-	"github.com/mrmorphic/hwio"
+	"github.com/netixx/hwio"
 )
 
 const (
